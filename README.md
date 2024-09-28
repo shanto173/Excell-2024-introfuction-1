@@ -164,9 +164,21 @@ CSV (Comma-Separated Values) and XLSX (Excel Spreadsheet) are both file formats 
 
 ---
 
-By understanding the differences between these file formats, you can choose the one best suited to your specific data storage and analysis needs.
+## Excel Formula
+- Excel formula use or start with `=(formula)`
+- After applying the formula in one column when we drag the column for multiple columns the formula automatically adjusts this is the most underrated feature of excel
+
+## What is aggregation function?
+- I have a group of data after summarizing the whole group of data to come up one number is called aggregation function it could be (sum,avg,median...)
+
+## To select the whole column Data we have to press `{cntrl + shift + down Arrow}` 
+## To edit any formula we have to press `{Fn + F2}`
 
 
+### **My Avg = 330 and median = 225 so is my data Right Skeweed or left Skeweed by knowing these 2 values?**
+- if my Avg > median then the distribution will be right skewed. the outliers are towards the maximum value.
+- if my Avg < median then the distribution will be left skewed the outliers are towards the minimum value.
+- Skweed means that my data has a lot of outliers
 
 
 
