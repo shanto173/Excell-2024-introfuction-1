@@ -51,10 +51,10 @@ Excel is an ideal tool for beginners to practice data manipulation and analysis,
 ## Every Excell cell has a unique address like A2, B2, B12
 - Excell address start with [COlumn Name] [Row Number]
 
-## Where the font tools are used like Bold, italic, center, letter upper and lower case, and heading highlight?
+## Where the font tools are used like `Bold, italic, center, letter upper and lower case, and heading highlight`?
 - These all are things used in the Excell dashboard making it look like the dashboard pretty
 
-## Excel is a calculation kind of tool.
+## Excel is a calculation tool.
 - mainly we will deal with the data tab
 
 ---
